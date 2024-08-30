@@ -16,6 +16,6 @@
 | H-5      | https://github.com/BeastToxic/git_h_5 |
 | H-6      | https://github.com/BeastToxic/git_h_6. |
 | H-7      | https://github.com/BeastToxic/git_h_7 | 
-| H-8      | https://github.com/BeastToxic/git_h_6. |
+| H-8      | https://github.com/BeastToxic/git_h_8 |
 
 <br/> 
